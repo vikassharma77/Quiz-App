@@ -1,1 +1,1 @@
-# Quiz-App
+The quiz app is a React-based application featuring a dynamic quiz interface with multiple-choice questions, including a welcome screen, question display area, answer selection, and navigation buttons. It allows users to progress through questions, view results, and continues from where they left off even after refreshing the page. Styling includes a responsive layout and the option to include a background image for added visual appeal.
